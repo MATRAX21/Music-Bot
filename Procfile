@@ -1,2 +1,2 @@
-worker : MusicBot.js
-worker : config.js
+worker: MusicBot.js
+worker: config.js
